@@ -16,10 +16,5 @@ Ceate an automated pipeline that takes in new data, performs the appropriate tra
 
 ## Summary:
 
-
-Three business recommendations to the CEO:
-
-1. Increase the number of drivers in rural cities
-2. Review the number of drivers in urban cities (probably they are to many)
-3. Review if all the urban drivers are working a complete journey (the number of driver exceed the numbers of rides)
+This code automates the cleaning and sanitizing of the databases to be able to be included in SQL
 
