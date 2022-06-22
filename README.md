@@ -11,8 +11,8 @@ Ceate an automated pipeline that takes in new data, performs the appropriate tra
 3. Extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. (ETL_clean_kaggle_data.ipynb).
 4. Add the movies_df DataFrame and MovieLens rating CSV data to a SQL database (ETL_create_database.ipynb)
 
-![City type comparison](/analysis/tabla1.png)
-![Fare per city type](/analysis/PyBer_fare_summary.png)
+![Image](/Images/resize.jfif)
+
 
 ## Summary:
 
